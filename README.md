@@ -12,7 +12,7 @@ Built to learn the basics of Pascal and classic Macintosh development, *Tips* is
 
 *Public domain, questionable polish, etc.*
 
-* Known bugs and infelicities.*
+*Known bugs and infelicities.*
   
 - On Macintoshes (a) running Systems less than 7, and (b) with a 512 x 342 display (e.g. compact Macs), the title text "Welcome to System 6" cuts the 6 short.
 – Since we use the Gestalt Manager to obtain the System version, compatibility is limited to System 6.0.5 onwards. Despite being a very simple application.
