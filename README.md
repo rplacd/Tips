@@ -15,8 +15,9 @@ Built to learn the basics of Pascal and classic Macintosh development, *Tips* is
 *Known bugs and infelicities.*
   
 - On Macintoshes (a) running Systems less than 7, and (b) with a 512 x 342 display (e.g. compact Macs), the title text "Welcome to System 6" cuts the 6 short.
-– Since we use the Gestalt Manager to obtain the System version, compatibility is limited to System 6.0.5 onwards. Despite being a very simple application.
+- Since we use the Gestalt Manager to obtain the System version, compatibility is limited to System 6.0.5 onwards. Despite being a very simple application.
 - Closing the app on 68000-based Macs takes a long time. I'm not sure why. Perhaps it's AppMaker's boilerplate.
+- A lot of AppMaker's shell boilerplate remains to handle documents, that *Tips* doesn't use.
 
 Contents
 --------
@@ -28,7 +29,7 @@ This repository contains
 
 Setting up development
 ----------------------
-Mount the disk image in System 6.0.5 onwards. The THINK Pascal project is at the path Tips ƒ:Tips.π. With luck, because THINK Pascal is distributed with the development disk, you should be able to double-clock Tips.π to get started.
+Mount the disk image in System 6.0.5 onwards. The THINK Pascal project is at the path *Tips ƒ:Tips.π*. With luck, because THINK Pascal is distributed with the development disk, you should be able to double-click Tips.π to get started.
 
 Adding your own tips
 --------------------
